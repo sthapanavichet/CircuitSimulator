@@ -1,0 +1,28 @@
+﻿  AnalogCircuit.cpp
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(54,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(54,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(87,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(87,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(88,55): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(88,13): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(95,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(96,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(96,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(101,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(102,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(103,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(106,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(107,68): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(114,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(118,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(119,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(127,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(135,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(136,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(149,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\Circuit Simulator\AnalogCircuit.cpp(193,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Capacitor.cpp
+  Inductor.cpp
+  Resistor.cpp
+  Generating Code...
+  Circuit Simulator.vcxproj -> C:\Users\sthap\OneDrive - Seneca\Desktop\Treasures\Code\Sem 5\SED500\Asg 1\Circuit Simulator\x64\Debug\Circuit Simulator.exe

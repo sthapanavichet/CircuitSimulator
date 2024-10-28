@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{474DD814-C91F-4519-A805-A0F5B0EDAB74}|Circuit Simulator\\Circuit Simulator.vcxproj|C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\Circuit Simulator\\AnalogCircuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{474DD814-C91F-4519-A805-A0F5B0EDAB74}|Circuit Simulator\\Circuit Simulator.vcxproj|solutionrelative:Circuit Simulator\\AnalogCircuit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{474DD814-C91F-4519-A805-A0F5B0EDAB74}|Circuit Simulator\\Circuit Simulator.vcxproj|C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\Circuit Simulator\\AnalogCircuitMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{474DD814-C91F-4519-A805-A0F5B0EDAB74}|Circuit Simulator\\Circuit Simulator.vcxproj|solutionrelative:Circuit Simulator\\AnalogCircuitMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalogCircuit.cpp",
+              "DocumentMoniker": "C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\Circuit Simulator\\AnalogCircuit.cpp",
+              "RelativeDocumentMoniker": "Circuit Simulator\\AnalogCircuit.cpp",
+              "ToolTip": "C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\Circuit Simulator\\AnalogCircuit.cpp",
+              "RelativeToolTip": "Circuit Simulator\\AnalogCircuit.cpp",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAKQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T02:44:15.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalogCircuitMain.cpp",
+              "DocumentMoniker": "C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\Circuit Simulator\\AnalogCircuitMain.cpp",
+              "RelativeDocumentMoniker": "Circuit Simulator\\AnalogCircuitMain.cpp",
+              "ToolTip": "C:\\Users\\sthap\\OneDrive - Seneca\\Desktop\\Treasures\\Code\\Sem 5\\SED500\\Asg 1\\Circuit Simulator\\Circuit Simulator\\AnalogCircuitMain.cpp",
+              "RelativeToolTip": "Circuit Simulator\\AnalogCircuitMain.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T02:44:11.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
